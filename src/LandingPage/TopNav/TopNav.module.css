@@ -22,3 +22,6 @@
     margin-left: var(--element-spacing);
 }
 
+.top-nav{
+    width: 100%;
+}
