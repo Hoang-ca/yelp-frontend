@@ -10,6 +10,6 @@
     padding-left: 1rem;
 }
 
-:global(.icon){
+:global(.icon).search-icon{
     color: white
 }
