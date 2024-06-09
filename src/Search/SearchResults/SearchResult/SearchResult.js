@@ -8,7 +8,7 @@ export function SearchResult(){
             <div className={styles['business-info']}>
                 <h2 className="subtitle">Burger Place</h2>
                 <BusinessRating/>
-                <p>$$ <span class="tag"> Burger </span>  <span class="tag"> Fast Food </span></p>
+                <p>$$ <span className="tag"> Burger </span>  <span className="tag"> Fast Food </span></p>
             </div>
             <div className={styles['contact-info']}>
                 <p>+00123456789</p>
